@@ -1,21 +1,16 @@
 # Site navigation links
 
-- title: Getting Started
-  url: /getting-started/
-  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
-  image: 400x250.gif
+- title: ÖRNEK İŞLER
+  url: /isler/
+  excerpt: "Cam Balkon, Duşakabin, PVC, Sineklik vb."
+  image: is.png
 
-- title: Sample Articles
-  url: /articles/
-  excerpt: "Examples of long form posts."
-  image: 400x250.gif
+- title: SOSYAL MEDYA
+  url: /sosyal-medya/
+  excerpt: "Esen Cam&Balkon Sosyal Medya"
+  image: social-media.jpg
 
-- title: Media
-  url: /media/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
-  image: 400x250.gif
-
-- title: About
-  url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
-  image: 400x250.gif
+- title: İLETİŞİM
+  url: /iletisim/
+  excerpt: "Esen Cam&Balkon İletişim"
+  image: contact.jpg
